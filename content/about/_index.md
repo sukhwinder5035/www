@@ -1,14 +1,10 @@
 ---
-title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+title: "About Sukhwinder"
+description: "Name; Sukhwnder Singh, Profession: Teaching (Civil Engineer), Qualification: M. Tech Structural Engineering, Experience: 2 Years in execution of prestressed structures and 7 Years in teching, Current Job Profile: Assistant Professor in Civil Engineering Deaartment_Guru Nanak Dev Engineering College Ludhiana Punjab India."
 featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/1410244084Logo_of_GNDEC_ludhiana.jpg" title="Department of Civil Engineering(Since 1956)" >}}
 
-_The Hunchback of Notre-Dame_ is a French Romantic/Gothic novel by Victor
-Hugo, published in 1831.  The original French title refers to Notre Dame
-Cathedral, on which the story is centered.  English translator Frederic
-Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the
-time, Gothic novels were more popular than Romance novels in England.  The
-story is set in Paris, France in the Late Middle Ages, during the reign of
-Louis XI.
+_This Department was established in 1956.
+ The mission of the Department is to impart high quality post graduate and under-graduate education and carry out leading-edge research in the discipline of Civil Engineering.
+ The department currently runs academic program leading to the award of B.
