@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sukhwinder Singh</title>
-    <link>https://sukhwinder5035.github.io/tags/</link>
+    <link>https://sukhwinder5035.github.io/www/tags/</link>
     <description>Recent content in Tags on Sukhwinder Singh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Dec 2020 06:00:16 -0500</lastBuildDate><atom:link href="https://sukhwinder5035.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 May 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://sukhwinder5035.github.io/www/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>scene</title>
-      <link>https://sukhwinder5035.github.io/tags/scene/</link>
-      <pubDate>Wed, 30 Dec 2020 06:00:16 -0500</pubDate>
+      <link>https://sukhwinder5035.github.io/www/tags/scene/</link>
+      <pubDate>Tue, 09 May 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://sukhwinder5035.github.io/tags/scene/</guid>
+      <guid>https://sukhwinder5035.github.io/www/tags/scene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Civil Engineering Department</title>
+      <link>https://sukhwinder5035.github.io/www/tags/civil-engineering-department/</link>
+      <pubDate>Wed, 31 Dec 1969 19:33:37 -0500</pubDate>
+      
+      <guid>https://sukhwinder5035.github.io/www/tags/civil-engineering-department/</guid>
       <description></description>
     </item>
     

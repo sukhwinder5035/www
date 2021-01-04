@@ -1,11 +1,12 @@
 title = "Sukhwinder Singh"
 
+
 # 1. Replace hsrai with your userID on code.gndec.ac.in server
 #baseURL = "http://code.gndec.ac.in/~sukhwinder5035/www"
 # 2. Type # at the beginning of above line
 
 # 2. Remove # from line below and replace hsrai with your userID at github 
-baseURL = "https://sukhwinder5035.github.io"
+baseURL = "https://sukhwinder5035.github.io/www"
 
 # 2. Remove # from line below
 publishDir = "docs"
@@ -14,9 +15,8 @@ publishDir = "docs"
 #publishDir = "../public_html/www"
 
 languageCode = "en-us"
-theme = "Architect"
+theme = "ananke"
 themesDir = "themes"
-
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
@@ -47,4 +47,3 @@ enableRobotsTXT = true
   background_color_class = "bg-green"
   featured_image = "http://www.constructioncivilengineering.com/images/benefits-and-scope-of-civil-engineering.jpgm"
   recent_posts_number = 2
-
